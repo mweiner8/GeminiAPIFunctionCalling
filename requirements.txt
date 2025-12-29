@@ -1,0 +1,12 @@
+# Gemini API
+google-genai
+
+# HTTP requests
+requests
+
+# Environment variables
+python-dotenv
+
+# Flask for web GUI
+flask
+flask-cors
